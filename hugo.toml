@@ -1,0 +1,26 @@
+baseURL = "https://giuseppem98.netlify.app/"
+languageCode = "en-us"
+title = "PepoTech"
+theme = "PaperMod"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 25
+
+[params]
+  author = "GiuseppeM98"
+  description = "Glossario tech semplice per sviluppatori alle prime armi"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Glossario"
+  url = "/posts/"
+  weight = 2

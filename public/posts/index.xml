@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on PepoTech</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on PepoTech</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jun 2025 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cos&#39;è un API?</title>
+      <link>http://localhost:1313/posts/cos-e-un-api/</link>
+      <pubDate>Wed, 04 Jun 2025 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cos-e-un-api/</guid>
+      <description>&lt;p&gt;Un&amp;rsquo;API (Application Programming Interface) è un insieme di regole e protocolli che permettono a diverse applicazioni software di comunicare tra loro. Le API sono fondamentali per integrare servizi e costruire applicazioni moderne.&lt;/p&gt;
+&lt;p&gt;Esempio: quando un&amp;rsquo;applicazione usa le API di un servizio meteo per ottenere dati aggiornati sul tempo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cos&#39;è un Database?</title>
+      <link>http://localhost:1313/posts/cos-e-un-database/</link>
+      <pubDate>Wed, 04 Jun 2025 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cos-e-un-database/</guid>
+      <description>&lt;p&gt;Un database è un sistema organizzato per memorizzare e gestire grandi quantità di dati in modo efficiente. Può essere relazionale (SQL) o non relazionale (NoSQL).&lt;/p&gt;
+&lt;p&gt;Esempio: MySQL è un popolare database relazionale open source.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
