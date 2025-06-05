@@ -1,5 +1,5 @@
 ---
-title: "Cos'è un API?"
+title: "Cos'è un'API?"
 date: 2025-06-04T10:00:00+02:00
 draft: false
 tags: ["API", "Glossario", "Sviluppo", "Tecnologia"]

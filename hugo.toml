@@ -9,7 +9,7 @@ enableRobotsTXT = true
   pagerSize = 25
 
 [params]
-  author = "GiuseppeM98"
+  author = "BMTHPeppe"
   description = "Glossario tech semplice per sviluppatori alle prime armi"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
