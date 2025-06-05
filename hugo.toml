@@ -15,6 +15,8 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
   disableSpecial1stPost = true
+  customHead = '''<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4654113948534658"
+     crossorigin="anonymous"></script>'''
 
 
 [[menu.main]]
