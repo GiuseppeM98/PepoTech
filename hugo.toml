@@ -9,11 +9,13 @@ enableRobotsTXT = true
   pagerSize = 25
 
 [params]
-  author = "BMTHPeppe"
+  author = "Giuseppe"
   description = "Glossario tech semplice per sviluppatori alle prime armi"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+  disableSpecial1stPost = true
+
 
 [[menu.main]]
   name = "Home"
