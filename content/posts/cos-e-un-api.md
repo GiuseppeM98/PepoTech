@@ -6,8 +6,18 @@ tags: ["API", "Glossario", "Sviluppo", "Tecnologia"]
 ---
 
 Un'API (Application Programming Interface) è un insieme di regole e protocolli che consentono a due o più applicazioni software di comunicare e interagire tra loro. Le API definiscono i metodi e i dati che un'applicazione può utilizzare per richiedere servizi o informazioni da un'altra, facilitando così l'integrazione tra sistemi diversi.
-{{< ads >}}
-{{< ads >}}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4654113948534658"
+     crossorigin="anonymous"></script>
+<!-- intrapost -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4654113948534658"
+     data-ad-slot="4759794046"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 ## Perché le API sono importanti?
